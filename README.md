@@ -109,7 +109,7 @@ background-color: rgba(0, 225, 0, 0.4);
 
 <!-- </span></section> -->
 
-<br><br><br><br><br><br>
+
 
 
 
@@ -141,9 +141,9 @@ background-color: rgba(0, 225, 0, 0.4);
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 
+<br><br><br><br><br><br>
 
-
-
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
