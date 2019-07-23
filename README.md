@@ -61,7 +61,8 @@ background-color: rgba(0, 225, 0, 0.4);
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
-<body onload="alert('還暦まで、よく頑張りました！　第二の人生、始まり始まり〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
+<!--
+<body onload="alert('還暦まで、よく頑張りました！　第二の人生、始まり始まり〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">-->
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>>2019年同期会><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>><a href="https://torokoid.github.io/shiba">写真集</a></p>
