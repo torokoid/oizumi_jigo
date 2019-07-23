@@ -64,8 +64,8 @@ background-color: rgba(0, 225, 0, 0.4);
 <!--
 <body onload="alert('還暦まで、よく頑張りました！　第二の人生、始まり始まり〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">-->
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
-<p><a href="https://torokoid.github.io/home">Home</a>>2019年同期会><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>><a href="https://torokoid.github.io/shiba">写真集</a></p>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会、鹿児島支部より !!!</marquee></span></h1>
+<p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>><a href="https://torokoid.github.io/shiba">写真集</a></p>
 
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
@@ -129,14 +129,15 @@ background-color: rgba(0, 225, 0, 0.4);
 <a href="https://torokoid.github.io/oizumi/20190611_003.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_003.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="https://torokoid.github.io/oizumi/20190611_004.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_004.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="https://torokoid.github.io/oizumi/20190611_005.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_005.JPG" alt="サンプル画像" width="1800" /></a>
-<br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <section><h3><span class="white">
 6組、船津　毅さんよりメッセージいただきました。<br><br>
 おはよう、<br>
 還暦同窓会でもらった名簿で和田ひろみが鹿児島市内に住んでることがわかり、連絡取り合って、昨日42年ぶりに再会した。<br>
 改めてありがとう。<br>
 船津<br><br>2019/07/21</span></h3></section><br><br>
-<a href="https://torokoid.github.io/oizumi/20190720_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190720_001.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="https://torokoid.github.io/oizumi_jigo/kagoshibu.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190720_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/oizumi_jigo/kagoshibu.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190720_001.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 
