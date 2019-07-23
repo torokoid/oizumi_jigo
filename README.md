@@ -113,7 +113,7 @@ background-color: rgba(0, 225, 0, 0.4);
 
 
 
-
+<!--
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><h3><span class="white">
 2組、松井　久仁雄さんよりメッセージいただきました。<br><br>
@@ -128,7 +128,7 @@ background-color: rgba(0, 225, 0, 0.4);
 <section><h4><span class="blue">エピソード反映後のLINE会話です。右からの発言がペヤング。</span></h4></section>
 <a href="https://torokoid.github.io/oizumi/20190611_003.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_003.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="https://torokoid.github.io/oizumi/20190611_004.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_004.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="https://torokoid.github.io/oizumi/20190611_005.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_005.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="https://torokoid.github.io/oizumi/20190611_005.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_005.JPG" alt="サンプル画像" width="1800" /></a>-->
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <section><h3><span class="white">
 6組、船津　毅さんよりメッセージいただきました。<br><br>
@@ -136,8 +136,8 @@ background-color: rgba(0, 225, 0, 0.4);
 還暦同窓会でもらった名簿で和田ひろみが鹿児島市内に住んでることがわかり、連絡取り合って、昨日42年ぶりに再会した。<br>
 改めてありがとう。<br>
 船津<br><br>2019/07/21</span></h3></section><br><br>
-<a href="https://torokoid.github.io/oizumi_jigo/kagoshibu.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190720_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/oizumi_jigo/kagoshibu.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190720_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/oizumi_jigo/kagoshibu.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi_jigo/kagoshibu.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/oizumi/20190720_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190720_001.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 
