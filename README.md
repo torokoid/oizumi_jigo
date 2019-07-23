@@ -129,7 +129,7 @@ background-color: rgba(0, 225, 0, 0.4);
 <a href="https://torokoid.github.io/oizumi/20190611_003.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_003.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="https://torokoid.github.io/oizumi/20190611_004.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_004.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="https://torokoid.github.io/oizumi/20190611_005.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190611_005.JPG" alt="サンプル画像" width="1800" /></a>-->
-<br><br><br><br><br><br><br><br><br><br><br><br>
+
 <section><h3><span class="white">
 6組、船津　毅さんよりメッセージいただきました。<br><br>
 おはよう、<br>
@@ -143,7 +143,7 @@ background-color: rgba(0, 225, 0, 0.4);
 
 <br><br><br><br><br><br>
 
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
@@ -152,7 +152,7 @@ background-color: rgba(0, 225, 0, 0.4);
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script> 
-
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <!-- フッタ -->
  <footer>
  <span class="white">Copyright 2019/07/23 Pe-Young(S.Hada)</span>
