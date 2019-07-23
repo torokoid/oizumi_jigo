@@ -135,7 +135,7 @@ background-color: rgba(0, 225, 0, 0.4);
 おはよう、<br>
 還暦同窓会でもらった名簿で和田ひろみが鹿児島市内に住んでることがわかり、連絡取り合って、昨日42年ぶりに再会した。<br>
 改めてありがとう。<br>
-船津<br><br>2019/07/21</span></h3></section><br><br>
+船津<br><br>2019/07/21  和田ひろみさんは、背景の2列目左端</span></h3></section><br><br>
 <a href="https://torokoid.github.io/oizumi_jigo/kagoshibu.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi_jigo/kagoshibu.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/oizumi/20190720_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/20190720_001.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
